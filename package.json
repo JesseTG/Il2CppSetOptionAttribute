@@ -1,0 +1,17 @@
+{
+  "name": "com.unity.il2cppsetoptionattribute",
+  "version": "1.0.0",
+  "displayName": "Il2CppSetOptionAttribute",
+  "description": "UPM-wrapped copy of `Unity.IL2CPP.CompilerServices.Il2CppSetOptionAttribute`, because Unity makes you manually copy it from its installation for some reason.",
+  "keywords": [
+    "il2cpp",
+    "attribute",
+    "compiler",
+    "debug"
+  ],
+  "author": {
+    "name": "Jesse Talavera-Greenberg",
+    "email" : "director@corundum.games",
+    "url" : "https://corundum.games"
+  }
+}
